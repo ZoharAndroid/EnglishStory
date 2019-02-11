@@ -13,7 +13,7 @@
 
 针对每篇文章中对于我有点模糊或者不知道意思的单词或者短语记录，以便复习和查看。
 
-[单词短语记录册]()
+[单词短语记录册](https://github.com/ZoharAndroid/EnglishStory/blob/master/%E5%8D%95%E8%AF%8D%E7%9F%AD%E8%AF%AD%E8%AE%B0%E5%BD%95%E5%86%8C.md)
 
 ---
 
