@@ -1,4 +1,4 @@
-# EnglishStory ![](https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E8%80%85-zohar.zzh-brightgreen.svg)
+# EnglishStory  ![](https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E8%80%85-zohar.zzh-brightgreen.svg)
 尽量保证每天阅读一篇英语小文章，学习里面的句子和单词，并同步更新！（周末/节假日除外）
 
 > 文章来源网站：
